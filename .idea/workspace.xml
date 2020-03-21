@@ -1,55 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f24d09a-b41f-44e4-b7b3-1eaf1490732f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleColumnHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleConnectorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleConnectorId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleHandleResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleMetadata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExamplePlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleRecordCursor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleRecordSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleRecordSetProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleSplitManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleTableHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleTableLayoutHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleTransactionHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/ExampleHttpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/MetadataUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/TestExampleClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/TestExampleColumnHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/TestExampleConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/TestExampleMetadata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/TestExampleRecordSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/TestExampleRecordSetProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/TestExampleSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/TestExampleTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/TestExampleTableHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/resources/example-data/example-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/resources/example-data/lineitem-1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/resources/example-data/lineitem-2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/resources/example-data/numbers-1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/resources/example-data/numbers-2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/resources/example-data/orders-1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presto-example-hana/src/test/resources/example-data/orders-2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/stale.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOTICES" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+    <list default="true" id="8f24d09a-b41f-44e4-b7b3-1eaf1490732f" name="Default" comment="presto-hana">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pull_request_template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/presto-main/etc/catalog/example.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/presto-main/etc/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/presto-main/etc/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PluginManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PluginManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PluginManagerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PluginManagerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/presto-main/var/log/http-request.log" beforeDir="false" afterPath="$PROJECT_DIR$/presto-main/var/log/http-request.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/presto-server-rpm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/presto-server-rpm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/presto-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/presto-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/presto-server/src/main/assembly/presto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/presto-server/src/main/assembly/presto.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkstyle/presto-checks.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/presto-array/target/" />
@@ -112,6 +78,7 @@
     <ignored path="$PROJECT_DIR$/presto-thrift-testing-server/target/" />
     <ignored path="$PROJECT_DIR$/presto-spi/target/" />
     <ignored path="$PROJECT_DIR$/presto-parser/target/" />
+    <ignored path="$PROJECT_DIR$/presto-example-hana/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,20 +88,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/presto-example-hana/pom.xml">
+      <file leaf-file-name="PluginManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PluginManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1206">
-              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="1440">
+              <caret line="153" column="40" selection-start-line="153" selection-start-column="40" selection-end-line="153" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="PluginManagerConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PluginManagerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="246" column="47" selection-start-line="246" selection-start-column="47" selection-end-line="246" selection-end-column="47" />
+            <state relative-caret-position="840">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExamplePlugin.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExamplePlugin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/presto-main/etc/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -143,11 +128,43 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>PrestoS</find>
       <find>presto-example-http</find>
+      <find>maven-checkstyle</find>
+      <find>airbase-checks.xml</find>
+      <find>maven-checkstyle-plugin</find>
+      <find>2.17</find>
+      <find>checkstyle</find>
+      <find>presto-cache</find>
+      <find>config-file</find>
+      <find>presto</find>
+      <find>style</find>
+      <find>presto-checks.xml</find>
+      <find>airbas</find>
+      <find>example-http</find>
+      <find>PluginManagerConfig.java</find>
+      <find>PluginManagerConfig</find>
+      <find>../presto-blackhole/pom.xml</find>
+      <find>example-htt</find>
+      <find>DateFormat</find>
+      <find>installedPluginsDir</find>
+      <find>presto-elasticsearch</find>
+      <find>presto-hive-hadoop2</find>
+      <find>presto-docs</find>
+      <find>PluginManager</find>
+      <find>presto-example-http/pom.xml</find>
+      <find>loadPlugin</find>
+      <find>PrestoSystemRequirements</find>
+      <find>maxFileDescriptorCount</find>
+      <find>linux</find>
+      <find>buildClassLoader</find>
+      <find>getConnectorFactories</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/presto-main/src/main/java/com/facebook</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -157,7 +174,24 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/presto-example-hana/pom.xml" />
+        <option value="$PROJECT_DIR$/presto-example-hana/src/main/java/example/ExampleConnector.java" />
+        <option value="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleConnector.java" />
+        <option value="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleMetadata.java" />
+        <option value="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleColumn.java" />
+        <option value="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleConnectorFactory.java" />
+        <option value="$PROJECT_DIR$/src/checkstyle/presto-checks.xml" />
+        <option value="$PROJECT_DIR$/presto-cache/target/checkstyle-checker.xml" />
+        <option value="$PROJECT_DIR$/presto-server/pom.xml" />
+        <option value="$PROJECT_DIR$/presto-example-hana/src/main/java/example/ExampleSplit.java" />
+        <option value="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleConnectorFactory.java" />
+        <option value="$PROJECT_DIR$/presto-main/etc/catalog/hana.properties" />
+        <option value="$PROJECT_DIR$/presto-main/etc/config.properties" />
+        <option value="$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PluginManagerConfig.java" />
+        <option value="$PROJECT_DIR$/presto-teradata-functions/src/main/java/com/facebook/presto/teradata/functions/dateformat/DateFormatParser.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PrestoSystemRequirements.java" />
+        <option value="$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PluginManager.java" />
       </list>
     </option>
   </component>
@@ -174,18 +208,22 @@
         <option name="userSettingsFile" value="$PROJECT_DIR$/../../apache-maven-3.6.0/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/presto-main/src/main/resources/webapp/src/package.json" />
-      <path value="$PROJECT_DIR$/presto-main/target/classes/webapp/src/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="23" />
-    <option name="width" value="1392" />
-    <option name="height" value="877" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="144" />
+    <option name="y" value="62" />
+    <option name="width" value="1315" />
+    <option name="height" value="836" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -204,70 +242,65 @@
             <path>
               <item name="presto-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="presto-0.225" type="462c0819:PsiDirectoryNode" />
-              <item name="presto-example-hana" type="462c0819:PsiDirectoryNode" />
+              <item name="presto-hive-metastore" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="presto-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="presto-0.225" type="462c0819:PsiDirectoryNode" />
-              <item name="presto-example-hana" type="462c0819:PsiDirectoryNode" />
+              <item name="presto-main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="presto-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="presto-0.225" type="462c0819:PsiDirectoryNode" />
+              <item name="presto-main" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="presto-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="presto-0.225" type="462c0819:PsiDirectoryNode" />
+              <item name="presto-main" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog_bak" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="presto-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="presto-0.225" type="462c0819:PsiDirectoryNode" />
+              <item name="presto-main" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="presto-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="presto-0.225" type="462c0819:PsiDirectoryNode" />
-              <item name="presto-example-hana" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="presto-root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="presto-0.225" type="462c0819:PsiDirectoryNode" />
-              <item name="presto-example-hana" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="presto-root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="presto-0.225" type="462c0819:PsiDirectoryNode" />
-              <item name="presto-example-hana" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="presto-root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="presto-0.225" type="462c0819:PsiDirectoryNode" />
-              <item name="presto-example-hana" type="462c0819:PsiDirectoryNode" />
+              <item name="presto-main" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="facebook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="presto-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="presto-0.225" type="462c0819:PsiDirectoryNode" />
-              <item name="presto-example-hana" type="462c0819:PsiDirectoryNode" />
+              <item name="presto-main" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="presto-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="presto-0.225" type="462c0819:PsiDirectoryNode" />
+              <item name="presto-main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="presto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="presto-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="presto-0.225" type="462c0819:PsiDirectoryNode" />
-              <item name="presto-example-hana" type="462c0819:PsiDirectoryNode" />
+              <item name="presto-main" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="facebook" type="462c0819:PsiDirectoryNode" />
               <item name="presto" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -288,7 +321,14 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.facebook.presto.example" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/presto-main/etc/catalog" />
+      <recent name="$PROJECT_DIR$/presto-main/etc" />
+      <recent name="$PROJECT_DIR$/presto-example-hana/src/main/java" />
+      <recent name="$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -366,48 +406,49 @@
       <option name="presentableId" value="Default" />
       <updated>1584761376518</updated>
       <workItem from="1584761378134" duration="1943000" />
-      <workItem from="1584766546755" duration="3768000" />
+      <workItem from="1584766546755" duration="13670000" />
+      <workItem from="1584792609261" duration="9661000" />
+      <workItem from="1584808994581" duration="238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5711000" />
+    <option name="totallyTimeSpent" value="25512000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="23" width="1392" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="144" y="62" width="1315" height="836" extended-state="1" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.104166664" side_tool="true" visible="true" weight="0.29140723" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.10560345" side_tool="true" weight="0.5641345" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.5952678" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.89511496" weight="0.3860523" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8958333" visible="true" weight="0.29140723" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43247128" />
-      <window_info anchor="right" id="Bean Validation" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.8936782" weight="0.40846825" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89439654" visible="true" weight="0.5839895" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20228137" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928162" weight="0.29514322" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,11 +457,105 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PluginManagerConfig.java</url>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PluginManager.java</url>
+          <line>285</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PrestoServer.java">
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExamplePlugin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+        <state relative-caret-position="210">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleHandleResolver.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExamplePlugin.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleRecordSet.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleRecordSetProvider.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleTable.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/HanaTableLayoutHandle.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleConfig.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/ExampleHttpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/TestExampleConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleConnectorId.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleRecordCursor.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleMetadata.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleSplit.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleSplitManager.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleTableHandle.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleModule.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/connector/hana/ExampleConnectorFactory.java" />
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="30" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assembly/tests-with-dependencies.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-cache/target/checkstyle-checker.xml" />
+    <entry file="file://$PROJECT_DIR$/presto-cache/target/checkstyle-result.xml" />
+    <entry file="file://$PROJECT_DIR$/presto-cache/target/duplicate-finder-result.xml" />
+    <entry file="file://$PROJECT_DIR$/presto-cache/target/maven-archiver/pom.properties" />
+    <entry file="file://$PROJECT_DIR$/src/checkstyle/presto-checks.xml" />
+    <entry file="file://$PROJECT_DIR$/presto-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="104" column="43" selection-start-line="104" selection-start-column="43" selection-end-line="104" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-parser/src/main/java/com/facebook/presto/sql/ReservedIdentifiers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/test/java/com/facebook/presto/example/TestExampleClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-parser/src/main/java/com/facebook/presto/sql/parser/AstBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="212" column="5" lean-forward="true" selection-start-line="212" selection-start-column="5" selection-end-line="212" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -431,27 +566,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PrestoServer.java">
+    <entry file="file://$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PluginClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        <state relative-caret-position="266">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleSplit.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/presto-example-hana/pom.xml">
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExampleConnectorFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1206">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="135">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/presto-main/etc/catalog/hana.properties" />
+    <entry file="file://$PROJECT_DIR$/presto-main/etc/catalog/example.properties" />
+    <entry file="file://$PROJECT_DIR$/presto-example-http/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1227" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/connector/ConnectorManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="192" selection-start-line="192" selection-end-line="192" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-teradata-functions/src/main/java/com/facebook/presto/teradata/functions/dateformat/DateFormatParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-mysql/src/main/java/com/facebook/presto/plugin/mysql/MySqlClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2129">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-mysql/src/main/java/com/facebook/presto/plugin/mysql/MySqlClientModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-mysql/src/main/java/com/facebook/presto/plugin/mysql/MySqlConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-mysql/src/main/java/com/facebook/presto/plugin/mysql/MySqlPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-docs/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/presto-elasticsearch/pom.xml" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="246" column="47" selection-start-line="246" selection-start-column="47" selection-end-line="246" selection-end-column="47" />
+        <state relative-caret-position="-1905">
+          <caret line="125" column="42" selection-start-line="125" selection-start-column="42" selection-end-line="125" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-hive-hadoop2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-main/etc/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PrestoSystemRequirements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="71" column="18" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PluginManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="153" column="40" selection-start-line="153" selection-start-column="40" selection-end-line="153" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-main/src/main/java/com/facebook/presto/server/PluginManagerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presto-example-hana/src/main/java/com/facebook/presto/example/ExamplePlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -472,7 +704,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -532,6 +764,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

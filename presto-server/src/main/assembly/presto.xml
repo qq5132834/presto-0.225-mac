@@ -77,6 +77,10 @@
             <outputDirectory>plugin/example-http</outputDirectory>
         </fileSet>
         <fileSet>
+            <directory>${project.build.directory}/dependency/presto-example-hana-${project.version}</directory>
+            <outputDirectory>plugin/example-hana</outputDirectory>
+        </fileSet>
+        <fileSet>
             <directory>${project.build.directory}/dependency/presto-hive-hadoop2-${project.version}</directory>
             <outputDirectory>plugin/hive-hadoop2</outputDirectory>
         </fileSet>
@@ -160,9 +164,11 @@
             <directory>${project.build.directory}/dependency/presto-thrift-connector-${project.version}</directory>
             <outputDirectory>plugin/presto-thrift</outputDirectory>
         </fileSet>
+        <!--
         <fileSet>
             <directory>${project.build.directory}/dependency/presto-elasticsearch-${project.version}</directory>
             <outputDirectory>plugin/presto-elasticsearch</outputDirectory>
         </fileSet>
+         -->
     </fileSets>
 </assembly>

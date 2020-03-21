@@ -16,6 +16,7 @@
     <file url="file://$PROJECT_DIR$/presto-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/presto-docs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/presto-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-example-hana" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/presto-example-http" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/presto-geospatial" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/presto-geospatial-toolkit" charset="UTF-8" />

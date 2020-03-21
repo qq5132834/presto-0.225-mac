@@ -41,7 +41,7 @@
         <module name="presto-cassandra" />
         <module name="presto-cli" />
         <module name="presto-client" />
-        <module name="presto-elasticsearch" />
+        <module name="presto-example-hana" />
         <module name="presto-example-http" />
         <module name="presto-geospatial" />
         <module name="presto-geospatial-toolkit" />
@@ -90,5 +90,9 @@
         <module name="presto-verifier" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="presto-docs" target="1.8" />
+      <module name="presto-elasticsearch" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

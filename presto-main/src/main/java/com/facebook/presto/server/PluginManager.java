@@ -142,19 +142,23 @@ public class PluginManager
             return;
         }
 
+        System.out.println("===========loadPlugins=========");
         for (File file : listFiles(installedPluginsDir)) {
+            System.out.println(file.getAbsoluteFile());
             if (file.isDirectory()) {
-                loadPlugin(file.getAbsolutePath());
+                loadPlugin("file:"+file.getAbsolutePath());
             }
         }
 
-        for (String plugin : plugins) {
-            loadPlugin(plugin);
-        }
+//        for (String plugin : plugins) {
+//            System.out.println("plugin:"+plugin);
+//            loadPlugin(plugin);
+//        }
 
         metadata.verifyComparableOrderableContract();
 
         pluginsLoaded.set(true);
+
     }
 
     private void loadPlugin(String plugin)
