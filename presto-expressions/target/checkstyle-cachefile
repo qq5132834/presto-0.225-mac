@@ -1,0 +1,12 @@
+#Thu Mar 19 22:37:18 CST 2020
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/LogicalRowExpressions.java=1584616229000
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/translator/FunctionTranslator.java=1584616229000
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/translator/RowExpressionTreeTranslator.java=1584616229000
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/RowExpressionRewriter.java=1584616229000
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/translator/TranslatorAnnotationParser.java=1584616229000
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/translator/TranslatedExpression.java=1584616229000
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/translator/RowExpressionTranslator.java=1584616229000
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/RowExpressionNodeInliner.java=1584616229000
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/RowExpressionTreeRewriter.java=1584616229000
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/DefaultRowExpressionTraversalVisitor.java=1584616229000
+configuration*?=2DE82BADC009D728FA08005839E6CD0241911A1D

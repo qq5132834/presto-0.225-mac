@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath>
+          <entry name="$PROJECT_DIR$/../../repository/com/facebook/drift/drift-javadoc/1.19/drift-javadoc-1.19.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/com/facebook/drift/drift-api/1.19/drift-api-1.19.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/com/squareup/javapoet/1.9.0/javapoet-1.9.0.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/io/takari/maven/plugins/takari-plugin-testing/2.9.1/takari-plugin-testing-2.9.1.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/junit/junit/4.12/junit-4.12.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/org/codehaus/plexus/plexus-utils/3.0.21/plexus-utils-3.0.21.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/io/takari/maven/plugins/takari-plugin-integration-testing/2.9.1/takari-plugin-integration-testing-2.9.1.pom" />
+          <entry name="$PROJECT_DIR$/../../repository/org/apache/commons/commons-exec/1.2/commons-exec-1.2.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/io/takari/m2e/workspace/org.eclipse.m2e.workspace.cli/0.4.0/org.eclipse.m2e.workspace.cli-0.4.0.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/javax/inject/javax.inject/1/javax.inject-1.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/org/apache/commons/commons-compress/1.9/commons-compress-1.9.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/org/assertj/assertj-core/3.5.2/assertj-core-3.5.2.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/com/google/guava/guava/24.1-jre/guava-24.1-jre.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar" />
+          <entry name="$PROJECT_DIR$/../../repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar" />
+        </processorPath>
+        <module name="presto-accumulo" />
+        <module name="presto-array" />
+        <module name="presto-atop" />
+        <module name="presto-base-jdbc" />
+        <module name="presto-benchmark" />
+        <module name="presto-benchmark-driver" />
+        <module name="presto-benchto-benchmarks" />
+        <module name="presto-blackhole" />
+        <module name="presto-bytecode" />
+        <module name="presto-cassandra" />
+        <module name="presto-cli" />
+        <module name="presto-client" />
+        <module name="presto-elasticsearch" />
+        <module name="presto-example-http" />
+        <module name="presto-geospatial" />
+        <module name="presto-geospatial-toolkit" />
+        <module name="presto-hive" />
+        <module name="presto-hive-hadoop2" />
+        <module name="presto-jdbc" />
+        <module name="presto-jmx" />
+        <module name="presto-kafka" />
+        <module name="presto-kudu" />
+        <module name="presto-local-file" />
+        <module name="presto-main" />
+        <module name="presto-matching" />
+        <module name="presto-memory" />
+        <module name="presto-memory-context" />
+        <module name="presto-ml" />
+        <module name="presto-mongodb" />
+        <module name="presto-mysql" />
+        <module name="presto-orc" />
+        <module name="presto-parquet" />
+        <module name="presto-parser" />
+        <module name="presto-password-authenticators" />
+        <module name="presto-plugin-toolkit" />
+        <module name="presto-postgresql" />
+        <module name="presto-product-tests" />
+        <module name="presto-proxy" />
+        <module name="presto-raptor" />
+        <module name="presto-rcfile" />
+        <module name="presto-record-decoder" />
+        <module name="presto-redis" />
+        <module name="presto-redshift" />
+        <module name="presto-resource-group-managers" />
+        <module name="presto-server" />
+        <module name="presto-server-rpm" />
+        <module name="presto-session-property-managers" />
+        <module name="presto-spi" />
+        <module name="presto-sqlserver" />
+        <module name="presto-teradata-functions" />
+        <module name="presto-testing-docker" />
+        <module name="presto-testing-server-launcher" />
+        <module name="presto-tests" />
+        <module name="presto-thrift-connector" />
+        <module name="presto-thrift-connector-api" />
+        <module name="presto-thrift-testing-server" />
+        <module name="presto-tpcds" />
+        <module name="presto-tpch" />
+        <module name="presto-verifier" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

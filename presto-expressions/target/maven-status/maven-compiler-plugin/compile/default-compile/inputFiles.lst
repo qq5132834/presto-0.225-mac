@@ -1,0 +1,10 @@
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/LogicalRowExpressions.java
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/translator/RowExpressionTreeTranslator.java
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/DefaultRowExpressionTraversalVisitor.java
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/RowExpressionTreeRewriter.java
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/translator/FunctionTranslator.java
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/translator/RowExpressionTranslator.java
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/translator/TranslatedExpression.java
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/translator/TranslatorAnnotationParser.java
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/RowExpressionNodeInliner.java
+/Volumes/D/github/presto/presto-expressions/src/main/java/com/facebook/presto/expressions/RowExpressionRewriter.java

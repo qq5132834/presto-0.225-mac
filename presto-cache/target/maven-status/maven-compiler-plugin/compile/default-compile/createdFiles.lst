@@ -1,0 +1,13 @@
+com/facebook/presto/cache/CacheStats.class
+com/facebook/presto/cache/LocalRangeCacheManager$CacheRemovalListener.class
+com/facebook/presto/cache/CachingInputStream.class
+com/facebook/presto/cache/CacheManager.class
+com/facebook/presto/cache/CachingFileSystem.class
+com/facebook/presto/cache/LocalRangeCacheManager$1.class
+com/facebook/presto/cache/ForCachingFileSystem.class
+com/facebook/presto/cache/LocalRangeCacheManager$LocalCacheFile.class
+com/facebook/presto/cache/LocalRangeCacheManager$CacheRange.class
+com/facebook/presto/cache/CacheConfig.class
+com/facebook/presto/cache/NoOpCacheManager.class
+com/facebook/presto/cache/FileReadRequest.class
+com/facebook/presto/cache/LocalRangeCacheManager.class

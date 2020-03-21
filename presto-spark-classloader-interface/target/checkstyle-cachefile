@@ -1,0 +1,17 @@
+#Thu Mar 19 22:37:05 CST 2020
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IPrestoSparkQueryExecutionFactory.java=1584616230000
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IPrestoSparkServiceFactory.java=1584616230000
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/PrestoSparkSession.java=1584616230000
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IPrestoSparkService.java=1584616230000
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/PrestoSparkRow.java=1584616230000
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/SerializedPrestoSparkTaskDescriptor.java=1584616230000
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IPrestoSparkTaskExecutorFactory.java=1584616230000
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/PrestoSparkTaskInputs.java=1584616230000
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IPrestoSparkTaskExecutor.java=1584616230000
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/PrestoSparkConfiguration.java=1584616230000
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IntegerIdentityPartitioner.java=1584616230000
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/TaskProcessors.java=1584616230000
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IPrestoSparkQueryExecution.java=1584616230000
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/PrestoSparkTaskExecutorFactoryProvider.java=1584616230000
+configuration*?=4AEA08ABD030FA4FCB3112D24D5F4DE28C62F426
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/SerializedTaskStats.java=1584616230000

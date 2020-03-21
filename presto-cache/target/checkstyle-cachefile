@@ -1,0 +1,13 @@
+#Thu Mar 19 22:37:25 CST 2020
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/CacheStats.java=1584616228000
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/ForCachingFileSystem.java=1584616228000
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/LocalRangeCacheManager.java=1584616228000
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/CacheManager.java=1584616228000
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/NoOpCacheManager.java=1584616228000
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/CachingInputStream.java=1584616228000
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/CacheConfig.java=1584616228000
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/FileReadRequest.java=1584616228000
+/Volumes/D/github/presto/presto-cache/src/test/java/com/facebook/presto/cache/TestCacheConfig.java=1584616228000
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/CachingFileSystem.java=1584616228000
+configuration*?=B2827398784014F14269C50C4E4314FEAA6AD744
+/Volumes/D/github/presto/presto-cache/src/test/java/com/facebook/presto/cache/TestLocalRangeCacheManager.java=1584616228000

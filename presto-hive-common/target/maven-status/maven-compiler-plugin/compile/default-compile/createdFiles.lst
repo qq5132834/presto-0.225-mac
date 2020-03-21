@@ -1,0 +1,3 @@
+com/facebook/presto/hive/HiveFileContext.class
+com/facebook/presto/hive/HiveFileContext$ExtraHiveFileInfo.class
+com/facebook/presto/hive/HiveErrorCode.class

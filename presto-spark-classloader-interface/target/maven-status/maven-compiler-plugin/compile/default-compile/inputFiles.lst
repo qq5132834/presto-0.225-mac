@@ -1,0 +1,15 @@
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IntegerIdentityPartitioner.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IPrestoSparkTaskExecutor.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IPrestoSparkServiceFactory.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/PrestoSparkTaskInputs.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/TaskProcessors.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/SerializedPrestoSparkTaskDescriptor.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IPrestoSparkQueryExecutionFactory.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/PrestoSparkSession.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/PrestoSparkTaskExecutorFactoryProvider.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/SerializedTaskStats.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IPrestoSparkTaskExecutorFactory.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IPrestoSparkService.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/PrestoSparkRow.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/PrestoSparkConfiguration.java
+/Volumes/D/github/presto/presto-spark-classloader-interface/src/main/java/com/facebook/presto/spark/classloader_interface/IPrestoSparkQueryExecution.java

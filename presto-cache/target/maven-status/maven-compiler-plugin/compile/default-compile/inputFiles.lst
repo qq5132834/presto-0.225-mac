@@ -1,0 +1,9 @@
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/CacheManager.java
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/ForCachingFileSystem.java
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/CachingInputStream.java
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/CacheStats.java
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/CacheConfig.java
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/FileReadRequest.java
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/LocalRangeCacheManager.java
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/CachingFileSystem.java
+/Volumes/D/github/presto/presto-cache/src/main/java/com/facebook/presto/cache/NoOpCacheManager.java

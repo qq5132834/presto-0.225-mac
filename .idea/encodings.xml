@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-accumulo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-array" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-atop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-base-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-benchmark" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-benchmark-driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-benchto-benchmarks" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-blackhole" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-bytecode" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-cassandra" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-cli" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-docs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-example-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-geospatial" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-geospatial-toolkit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-hive" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-hive-hadoop2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-jmx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-kafka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-kudu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-local-file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-matching" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-memory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-memory-context" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-ml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-mysql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-orc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-parquet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-parser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-password-authenticators" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-plugin-toolkit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-postgresql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-product-tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-proxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-raptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-rcfile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-record-decoder" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-redshift" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-resource-group-managers" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-server-rpm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-session-property-managers" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-spi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-sqlserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-teradata-functions" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-testing-docker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-testing-server-launcher" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-thrift-connector" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-thrift-connector-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-thrift-testing-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-tpcds" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-tpch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/presto-verifier" charset="UTF-8" />
+  </component>
+</project>

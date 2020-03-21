@@ -1,0 +1,11 @@
+/Volumes/D/github/presto/presto-spark-launcher/src/main/java/com/facebook/presto/spark/launcher/Commands.java
+/Volumes/D/github/presto/presto-spark-launcher/src/main/java/com/facebook/presto/spark/launcher/PrestoSparkDistribution.java
+/Volumes/D/github/presto/presto-spark-launcher/src/main/java/com/facebook/presto/spark/launcher/PrestoSparkLauncher.java
+/Volumes/D/github/presto/presto-spark-launcher/src/main/java/com/facebook/presto/spark/launcher/PrestoSparkLauncherCommand.java
+/Volumes/D/github/presto/presto-spark-launcher/src/main/java/com/facebook/presto/spark/launcher/PrestoSparkDistributionFactory.java
+/Volumes/D/github/presto/presto-spark-launcher/src/main/java/com/facebook/presto/spark/launcher/PrestoSparkLoader.java
+/Volumes/D/github/presto/presto-spark-launcher/src/main/java/com/facebook/presto/spark/launcher/PackageSupplier.java
+/Volumes/D/github/presto/presto-spark-launcher/src/main/java/com/facebook/presto/spark/launcher/TargzBasedPackageSupplier.java
+/Volumes/D/github/presto/presto-spark-launcher/src/main/java/com/facebook/presto/spark/launcher/LauncherUtils.java
+/Volumes/D/github/presto/presto-spark-launcher/src/main/java/com/facebook/presto/spark/launcher/PrestoSparkClientOptions.java
+/Volumes/D/github/presto/presto-spark-launcher/src/main/java/com/facebook/presto/spark/launcher/PrestoSparkVersionOption.java

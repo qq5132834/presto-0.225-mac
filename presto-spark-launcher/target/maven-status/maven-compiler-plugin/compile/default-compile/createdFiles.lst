@@ -1,0 +1,13 @@
+com/facebook/presto/spark/launcher/PrestoSparkLauncherCommand$DistributionBasedPrestoSparkTaskExecutorFactoryProvider.class
+com/facebook/presto/spark/launcher/PrestoSparkDistributionFactory.class
+com/facebook/presto/spark/launcher/PrestoSparkVersionOption.class
+com/facebook/presto/spark/launcher/PrestoSparkDistribution.class
+com/facebook/presto/spark/launcher/PrestoSparkLauncher.class
+com/facebook/presto/spark/launcher/PrestoSparkLauncherCommand$CachingServiceFactory.class
+com/facebook/presto/spark/launcher/Commands.class
+com/facebook/presto/spark/launcher/LauncherUtils.class
+com/facebook/presto/spark/launcher/PrestoSparkClientOptions.class
+com/facebook/presto/spark/launcher/TargzBasedPackageSupplier.class
+com/facebook/presto/spark/launcher/PrestoSparkLoader.class
+com/facebook/presto/spark/launcher/PackageSupplier.class
+com/facebook/presto/spark/launcher/PrestoSparkLauncherCommand.class
