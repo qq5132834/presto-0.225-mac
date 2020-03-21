@@ -142,7 +142,8 @@ final class PrestoSystemRequirements
     {
         try {
             MBeanServer mbeanServer = ManagementFactory.getPlatformMBeanServer();
-            Object maxFileDescriptorCount = mbeanServer.getAttribute(ObjectName.getInstance(OPERATING_SYSTEM_MXBEAN_NAME), "MaxFileDescriptorCount");
+            //Object maxFileDescriptorCount = mbeanServer.getAttribute(ObjectName.getInstance(OPERATING_SYSTEM_MXBEAN_NAME), "MaxFileDescriptorCount");
+            Object maxFileDescriptorCount = 100000;
             return OptionalLong.of(((Number) maxFileDescriptorCount).longValue());
         }
         catch (Exception e) {
